@@ -1,0 +1,8 @@
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\bin\Debug\MDK.exe.config
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\bin\Debug\MDK.exe
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\bin\Debug\MDK.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\obj\Debug\MDK.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\obj\Debug\MDK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\obj\Debug\MDK.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\obj\Debug\MDK.exe
+C:\Users\Артем\OneDrive\Рабочий стол\project\MDK\MDK\obj\Debug\MDK.pdb
